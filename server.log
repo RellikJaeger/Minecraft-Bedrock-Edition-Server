@@ -1,0 +1,103 @@
+2021-12-09 [01:07:43.600] [Server thread/INFO]: Loading server configuration
+2021-12-09 [01:07:43.690] [Server thread/INFO]: Selected English (eng) as the base language
+2021-12-09 [01:07:43.694] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.18.0
+2021-12-09 [01:07:43.740] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2021-12-09 [01:07:44.025] [Server thread/INFO]: This server is running PocketMine-MP version 4.0.0
+2021-12-09 [01:07:44.025] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2021-12-09 [01:07:44.328] [Server thread/INFO]: Loading resource packs...
+2021-12-09 [01:07:44.751] [Server thread/INFO]: Preparing world "world"
+2021-12-09 [01:07:44.780] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2021-12-09 [01:07:44.845] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2021-12-09 [01:07:44.846] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2021-12-09 [01:07:44.878] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2021-12-09 [01:07:44.878] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2021-12-09 [01:07:44.882] [Server thread/INFO]: Default game type: Creative Mode
+2021-12-09 [01:07:44.882] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2021-12-09 [01:07:44.884] [Server thread/INFO]: Done (1.315s)! For help, type "help" or "?"
+2021-12-09 [01:07:45.532] [Server thread/INFO]: [World: world] Generating spawn terrain: 1 / 224 (0%)
+2021-12-09 [01:07:52.054] [Server thread/INFO]: [World: world] Generating spawn terrain: 23 / 224 (10%)
+2021-12-09 [01:07:53.452] [Server thread/INFO]: [World: world] Generating spawn terrain: 45 / 224 (20%)
+2021-12-09 [01:07:54.068] [Server thread/INFO]: [World: world] Generating spawn terrain: 68 / 224 (30%)
+2021-12-09 [01:07:54.753] [Server thread/INFO]: [World: world] Generating spawn terrain: 90 / 224 (40%)
+2021-12-09 [01:07:55.131] [Server thread/INFO]: [World: world] Generating spawn terrain: 112 / 224 (50%)
+2021-12-09 [01:07:55.487] [Server thread/INFO]: [World: world] Generating spawn terrain: 135 / 224 (60%)
+2021-12-09 [01:07:55.753] [Server thread/INFO]: [World: world] Generating spawn terrain: 157 / 224 (70%)
+2021-12-09 [01:07:55.914] [Server thread/INFO]: [World: world] Generating spawn terrain: 180 / 224 (80%)
+2021-12-09 [01:07:56.126] [Server thread/INFO]: [World: world] Generating spawn terrain: 202 / 224 (90%)
+2021-12-09 [01:07:56.255] [Server thread/INFO]: [World: world] Generating spawn terrain: 224 / 224 (100%)
+2021-12-09 [01:08:42.849] [Server thread/INFO]: [NetworkSession: 192.168.100.129 55778] Session opened
+2021-12-09 [01:08:42.933] [Server thread/INFO]: [NetworkSession: 192.168.100.129 55778] Player: Siliena Imaxele
+2021-12-09 [01:08:42.938] [Server thread/INFO]: [NetworkSession: Siliena Imaxele] Session closed due to Server is whitelisted
+2021-12-09 [01:09:41.497] [Server thread/INFO]: [NetworkSession: 192.168.100.129 55778] Session opened
+2021-12-09 [01:09:41.620] [Server thread/INFO]: [NetworkSession: 192.168.100.129 55778] Player: Siliena Imaxele
+2021-12-09 [01:09:41.621] [Server thread/INFO]: [NetworkSession: Siliena Imaxele] Session closed due to Server is whitelisted
+2021-12-09 [01:10:07.324] [Server thread/INFO]: [NetworkSession: 192.168.100.129 55778] Session opened
+2021-12-09 [01:10:07.450] [Server thread/INFO]: [NetworkSession: 192.168.100.129 55778] Player: Siliena Imaxele
+2021-12-09 [01:10:07.451] [Server thread/INFO]: [NetworkSession: Siliena Imaxele] Session closed due to Server is whitelisted
+2021-12-09 [01:10:39.183] [Server thread/INFO]: [NetworkSession: 192.168.100.129 55778] Session opened
+2021-12-09 [01:10:39.336] [Server thread/INFO]: [NetworkSession: 192.168.100.129 55778] Player: Siliena Imaxele
+2021-12-09 [01:10:39.337] [Server thread/INFO]: [NetworkSession: Siliena Imaxele] Session closed due to Server is whitelisted
+2021-12-09 [01:10:50.147] [Server thread/INFO]: --- Showing help page 1 of 1 (/help <page>) ---
+2021-12-09 [01:10:50.148] [Server thread/INFO]: /ban: Prevents the specified player from using this server
+2021-12-09 [01:10:50.151] [Server thread/INFO]: /ban-ip: Prevents the specified IP address from using this server
+2021-12-09 [01:10:50.152] [Server thread/INFO]: /banlist: View all players banned from this server
+2021-12-09 [01:10:50.153] [Server thread/INFO]: /clear: Clears items from player inventory
+2021-12-09 [01:10:50.154] [Server thread/INFO]: /defaultgamemode: Set the default gamemode
+2021-12-09 [01:10:50.155] [Server thread/INFO]: /deop: Takes the specified player's operator status
+2021-12-09 [01:10:50.156] [Server thread/INFO]: /difficulty: Sets the game difficulty
+2021-12-09 [01:10:50.157] [Server thread/INFO]: /dumpmemory: Dumps the memory
+2021-12-09 [01:10:50.158] [Server thread/INFO]: /effect: Adds/Removes effects on players
+2021-12-09 [01:10:50.162] [Server thread/INFO]: /enchant: Adds enchantments on items
+2021-12-09 [01:10:50.164] [Server thread/INFO]: /gamemode: Changes the player to a specific game mode
+2021-12-09 [01:10:50.165] [Server thread/INFO]: /gc: Fires garbage collection tasks
+2021-12-09 [01:10:50.166] [Server thread/INFO]: /give: Gives the specified player a certain amount of items
+2021-12-09 [01:10:50.170] [Server thread/INFO]: /help: Shows the help menu
+2021-12-09 [01:10:50.171] [Server thread/INFO]: /kick: Removes the specified player from the server
+2021-12-09 [01:10:50.172] [Server thread/INFO]: /kill: Commit suicide or kill other players
+2021-12-09 [01:10:50.173] [Server thread/INFO]: /list: Lists all online players
+2021-12-09 [01:10:50.174] [Server thread/INFO]: /me: Performs the specified action in chat
+2021-12-09 [01:10:50.178] [Server thread/INFO]: /op: Gives the specified player operator status
+2021-12-09 [01:10:50.180] [Server thread/INFO]: /pardon: Allows the specified player to use this server
+2021-12-09 [01:10:50.182] [Server thread/INFO]: /pardon-ip: Allows the specified IP address to use this server
+2021-12-09 [01:10:50.183] [Server thread/INFO]: /particle: Adds particles to a world
+2021-12-09 [01:10:50.184] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+2021-12-09 [01:10:50.187] [Server thread/INFO]: /save-all: Saves the server to disk
+2021-12-09 [01:10:50.188] [Server thread/INFO]: /save-off: Disables server autosaving
+2021-12-09 [01:10:50.189] [Server thread/INFO]: /save-on: Enables server autosaving
+2021-12-09 [01:10:50.190] [Server thread/INFO]: /say: Broadcasts the given message as the sender
+2021-12-09 [01:10:50.191] [Server thread/INFO]: /seed: Shows the world seed
+2021-12-09 [01:10:50.196] [Server thread/INFO]: /setworldspawn: Sets a world's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2021-12-09 [01:10:50.198] [Server thread/INFO]: /spawnpoint: Sets a player's spawn point
+2021-12-09 [01:10:50.200] [Server thread/INFO]: /status: Reads back the server's performance.
+2021-12-09 [01:10:50.200] [Server thread/INFO]: /stop: Stops the server
+2021-12-09 [01:10:50.204] [Server thread/INFO]: /tell: Sends a private message to the given player
+2021-12-09 [01:10:50.205] [Server thread/INFO]: /time: Changes the time on each world
+2021-12-09 [01:10:50.206] [Server thread/INFO]: /timings: Records timings to see performance of the server.
+2021-12-09 [01:10:50.207] [Server thread/INFO]: /title: Controls screen titles
+2021-12-09 [01:10:50.212] [Server thread/INFO]: /tp: Teleports the given player (or yourself) to another player or coordinates
+2021-12-09 [01:10:50.213] [Server thread/INFO]: /transferserver: Transfer yourself to another server
+2021-12-09 [01:10:50.214] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+2021-12-09 [01:10:50.216] [Server thread/INFO]: /whitelist: Manages the list of players allowed to use this server
+2021-12-09 [01:10:54.909] [Server thread/INFO]: Unknown command: /whitelist. Use /help for a list of available commands.
+2021-12-09 [01:11:03.124] [Server thread/INFO]: Unknown command: /whitelist. Use /help for a list of available commands.
+2021-12-09 [01:11:10.405] [Server thread/INFO]: Unknown command: /whitelist. Use /help for a list of available commands.
+2021-12-09 [01:11:15.070] [Server thread/INFO]: Usage: /whitelist <on|off|list|add|remove|reload>
+2021-12-09 [01:11:22.149] [Server thread/INFO]: There are 0 (out of 0 seen) whitelisted players:
+2021-12-09 [01:11:22.150] [Server thread/INFO]: 
+2021-12-09 [01:11:39.365] [Server thread/INFO]: Usage: /whitelist <on|off|list|add|remove|reload>
+2021-12-09 [01:11:53.261] [Server thread/INFO]: [CONSOLE: Added SilienaXelet to the whitelist]
+2021-12-09 [01:12:00.004] [Server thread/INFO]: [NetworkSession: 192.168.100.129 55778] Session opened
+2021-12-09 [01:12:00.121] [Server thread/INFO]: [NetworkSession: 192.168.100.129 55778] Player: Siliena Imaxele
+2021-12-09 [01:12:00.122] [Server thread/INFO]: [NetworkSession: Siliena Imaxele] Session closed due to Server is whitelisted
+2021-12-09 [01:14:08.533] [Server thread/INFO]: Unknown command: /whitelist. Use /help for a list of available commands.
+2021-12-09 [01:14:10.806] [Server thread/INFO]: [CONSOLE: Added Siliena Imaxele to the whitelist]
+2021-12-09 [01:14:17.061] [Server thread/INFO]: [CONSOLE: Added SilienaXelet to the whitelist]
+2021-12-09 [01:14:32.852] [Server thread/INFO]: [NetworkSession: 192.168.100.129 55778] Session opened
+2021-12-09 [01:14:32.975] [Server thread/INFO]: [NetworkSession: 192.168.100.129 55778] Player: Siliena Imaxele
+2021-12-09 [01:14:34.032] [Server thread/INFO]: Siliena Imaxele[/192.168.100.129:55778] logged in with entity id 1 at (world, 256, 48, 256)
+2021-12-09 [01:14:39.475] [Server thread/INFO]: Siliena Imaxele joined the game
+2021-12-09 [01:15:49.660] [Server thread/INFO]: Received signal interrupt, stopping the server
+2021-12-09 [01:15:49.681] [Server thread/INFO]: Siliena Imaxele left the game
+2021-12-09 [01:15:49.690] [Server thread/INFO]: [NetworkSession: Siliena Imaxele] Session closed due to Server closed
+2021-12-09 [01:15:49.692] [Server thread/INFO]: Unloading world "world"
+2021-12-09 [01:15:51.006] [Server thread/INFO]: Stopping other threads
