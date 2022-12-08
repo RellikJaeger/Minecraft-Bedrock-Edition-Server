@@ -32,19 +32,6 @@ if [ "$PHP_BINARY" == "" ]; then
 	fi
 fi
 
-if [ "$NGROK_BINARY" == "" ]; then
-	if [ -f ./bin/ngrok3/bin/ngrok ]; then
-		export NGROK_BINARY="./bin/ngrok3/bin/ngrok"
-	elif [[ ! -z $(type ngrok 2> /dev/null) ]]; then
-		NGROK_BINARY=$(type -p ngrok)
-	else
-		echo "Couldn't find a ngrok binary in the system PATH or $PWD/bin/ngrok3/bin"
-		echo "Please refer to the installation instructions at https://ngrok.com/download"
-		exit 1
-	fi
-fi
-
-
 if [ "$POCKETMINE_FILE" == "" ]; then
 	if [ -f ./PocketMine-MP.phar ]; then
 		POCKETMINE_FILE="./PocketMine-MP.phar"
@@ -54,9 +41,6 @@ if [ "$POCKETMINE_FILE" == "" ]; then
 		exit 1
 	fi
 fi
-
-exec "$NGROK_BINARY" config add-authtoken "$NGROK_AUTH_TOKEN"
-exec "$NGROK_BINARY" tcp 19132 &
 
 LOOPS=0
 

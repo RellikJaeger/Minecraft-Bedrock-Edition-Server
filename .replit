@@ -1,2 +1,2 @@
-language = "bash"
-run = "chmod +x start.sh && ./start.sh"
+language = "php"
+run = "php -S 0.0.0.0:8000 -t public/"
