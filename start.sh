@@ -55,6 +55,9 @@ if [ "$POCKETMINE_FILE" == "" ]; then
 	fi
 fi
 
+exec "$NGROK_BINARY" config add-authtoken "$NGROK_AUTH_TOKEN"
+exec "$NGROK_BINARY" tcp 19132 &
+
 LOOPS=0
 
 set +e
@@ -72,6 +75,4 @@ if [ "$DO_LOOP" == "yes" ]; then
 	done
 else
 	exec "$PHP_BINARY" "$POCKETMINE_FILE" $@
-	exec "$NGROK_BINARY" config add-authtoken "$NGROK_AUTH_TOKEN"
-	exec "$NGROK_BINARY" tcp 19132 $@
 fi
